@@ -24,7 +24,7 @@ This dataset contains information on 769 women and includes many health-related 
 * Utilizing some legible visualization techniques for plotting out the significant features of dataset
 * Identifying any abnormal things in dataset, such as null/nan data points or outliers, which will affect incorrectly in analyzing process
 
-> ### Establishing the prediction model with Logistic Regression and Decision Tree
+> <i class="fa-solid fa-chart-mixed"></i> ### Establishing the prediction model with Logistic Regression and Decision Tree
 * This problem means to forecast whether the patient got diabetes or not by lying the feature attributes, which have strong correlations with the Outcome variables
 * Observing generally the dataset to define which attributes are not necessary for these problems. Then, we will remove them before construct the machine learning models
 * Comparing the performance and accuracy of the two models and making a conclusion which one is better
