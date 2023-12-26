@@ -19,22 +19,22 @@ This dataset contains information on 769 women and includes many health-related 
 * Outcome: The target variable indicates whether the woman has diabetes (1 for diabetics, 0 for non-diabetics).
 
 ## Problem Solving
-> ### Exploring the dataset and Pre-processing
+> ### 👨‍🏫 Exploring the dataset and Pre-processing
 * Describing the most overall vision for reader to comprehend what exactly this dataset's structure is
 * Utilizing some legible visualization techniques for plotting out the significant features of dataset
 * Identifying any abnormal things in dataset, such as null/nan data points or outliers, which will affect incorrectly in analyzing process
 
->  📊 ### Establishing the prediction model with Logistic Regression and Decision Tree
+>  ### 📊 Establishing the prediction model with Logistic Regression and Decision Tree
 * This problem means to forecast whether the patient got diabetes or not by lying the feature attributes, which have strong correlations with the Outcome variables
 * Observing generally the dataset to define which attributes are not necessary for these problems. Then, we will remove them before construct the machine learning models
 * Comparing the performance and accuracy of the two models and making a conclusion which one is better
 
-> 🗂 ### Classifying the categories of mass using Random Forest model
+> ### 🗂 Classifying the categories of mass using Random Forest model
 * The problem serves for identifying the mass situation of patient such as underweight, normal, overweight and obese. It will be helpful for doctors can keep track the health of patient having a probability of diabetes
 * Observing generally the dataset to define which attributes are not necessary for these problems. Then, we will remove them before construct the models
 * Having some fine-tuning tasks for selecting the best values' parameters. Then, we can build as the best model as possible base on these fine-tuned parameters
 
-> 🕵️‍♀️ ### Hypothesis validation using T-Test technique
+> ### 🕵️‍♀️ Hypothesis validation using T-Test technique
 * Using One-sample T-test, hypothesis that an average BMI (Body Mass Index) of 34 is susceptible to diabetes
 * Using Independent Samples T-test, The hypothesis that body fat (BMI) does not affect whether or not there is disease
 * Using One-sample T-test, hypothesis that the age also affects whether a person has diabetes
